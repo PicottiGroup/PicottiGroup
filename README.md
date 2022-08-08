@@ -1,21 +1,5 @@
 # Welcome to the Picotti Lab at ETH!
 
-<!--
-**PicottiGroup/PicottiGroup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 Our laboratory studies how **protein conformational changes** impact cellular networks both in normal physiology and in disease. The lab develops
 new mass spectrometric methods to monitor changes in the **structure** and **function** of proteins on a **proteome-wide scale** in biological samples like cells or tissues. These methods are applied in particular to study the effects of **protein aggregation** in **neurodegenerative disease**, with a focus on Parkinson's disease.
 
@@ -32,4 +16,5 @@ We applied LiP-MS to the study of protein aggregation and discovered molecular [
 | --- | --- |
 [![protti](https://jpquast.github.io/protti/reference/figures/protti_logo.png)](https://jpquast.github.io/protti/) | [![MSstatsLiP](https://opengraph.githubassets.com/771a7a7dde22891759942c1e21cd0826d7b23e0396d80fd844be048cb5b0bc0a/Vitek-Lab/MSstatsLiP)](https://github.com/Vitek-Lab/MSstatsLiP)
 | The goal of protti is to provide flexible functions and workflows for proteomics quality control and data analysis, within a single, user-friendly package. It can be used for label-free DDA, DIA and SRM data generated with search tools and software such as Spectronaut, MaxQuant, Proteome Discoverer and Skyline. Both limited proteolysis mass spectrometry (LiP-MS) and regular bottom-up proteomics experiments can be analysed.  | Tools for LiP peptide and protein significance analysis. Provides functions for summarization, estimation of LiP peptide abundance, and detection of protein abundance and structural changes across conditions. Utilizes functionality across the MSstats family of packages.
+
 
