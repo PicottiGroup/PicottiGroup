@@ -14,7 +14,7 @@ We applied LiP-MS to the study of protein aggregation and discovered molecular [
 
 | Protti  | MSstatsLiP  |
 | --- | --- |
-[![protti](https://jpquast.github.io/protti/reference/figures/protti_logo.png)](https://jpquast.github.io/protti/) | [![MSstatsLiP](https://opengraph.githubassets.com/771a7a7dde22891759942c1e21cd0826d7b23e0396d80fd844be048cb5b0bc0a/Vitek-Lab/MSstatsLiP)](https://github.com/Vitek-Lab/MSstatsLiP)
+[![protti](https://jpquast.github.io/protti/reference/figures/logo.png)](https://jpquast.github.io/protti/) | [![MSstatsLiP](https://opengraph.githubassets.com/771a7a7dde22891759942c1e21cd0826d7b23e0396d80fd844be048cb5b0bc0a/Vitek-Lab/MSstatsLiP)](https://github.com/Vitek-Lab/MSstatsLiP)
 | The goal of protti is to provide flexible functions and workflows for proteomics quality control and data analysis, within a single, user-friendly package. It can be used for label-free DDA, DIA and SRM data generated with search tools and software such as Spectronaut, MaxQuant, Proteome Discoverer and Skyline. Both limited proteolysis mass spectrometry (LiP-MS) and regular bottom-up proteomics experiments can be analysed.  | Tools for LiP peptide and protein significance analysis. Provides functions for summarization, estimation of LiP peptide abundance, and detection of protein abundance and structural changes across conditions. Utilizes functionality across the MSstats family of packages.
 
 
